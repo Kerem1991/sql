@@ -1,1 +1,1 @@
-git
+select title, description from film;
